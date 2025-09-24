@@ -1,5 +1,3 @@
-# SIADA
-absensi digital untuk sistem informasi kehadiran
 <!DOCTYPE html>
 <html lang="id">
 <head>
